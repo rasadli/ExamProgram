@@ -1,0 +1,6 @@
+@ImtahanAPI_HostAddress = http://localhost:5195
+
+GET {{ImtahanAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
